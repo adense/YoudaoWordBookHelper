@@ -1,0 +1,11 @@
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\bin\Debug\Adense.Tool.YouDaoWordBookHelper.exe.config
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\bin\Debug\Adense.Tool.YouDaoWordBookHelper.exe
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\bin\Debug\Adense.Tool.YouDaoWordBookHelper.pdb
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\obj\Debug\Adense.Tool.YouDaoWordBookHelper.FrmMain.resources
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\obj\Debug\Adense.Tool.YouDaoWordBookHelper.FrmYouDaoWordStyleCreator.resources
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\obj\Debug\Adense.Tool.YouDaoWordBookHelper.Properties.Resources.resources
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\obj\Debug\Adense.Tool.YouDaoWordBookHelper.csproj.GenerateResource.cache
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\obj\Debug\Adense.Tool.YouDaoWordBookHelper.csproj.CoreCompileInputs.cache
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\obj\Debug\Adense.Tool.YouDaoWordBookHelper.exe
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\obj\Debug\Adense.Tool.YouDaoWordBookHelper.pdb
+F:\GitLab\YoudaoWordBookHelper\Adense.Tool.YouDaoWordBookHelper\obj\Debug\Adense.Tool.YouDaoWordBookHelper.csprojAssemblyReference.cache
